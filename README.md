@@ -19,7 +19,7 @@ Previous version: [Azusa](http://sanographix.github.io/azusa-keynote/)
 1. Open `theme-azusa-colors.kth`
 2. Select "Add to theme selector".
 
-### Color Pallete
+### Color Palette
 
 1. Move `Azusa.clr` to `~/Library/Colors/`
 
