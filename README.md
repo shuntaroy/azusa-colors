@@ -9,14 +9,19 @@ Previous version: [Azusa](http://sanographix.github.io/azusa-keynote/)
 
 ### System requirements
 
-- Mac OSX Yosemite
-- Keynote v6.5.2
+- Mac OSX Yosemite or better
+- Keynote v6.5.2 or better
 
 ## Install
 
-1. Unzip `theme-azusa-colors.kth.zip`
-2. Open `theme-azusa-colors.kth`
-3. Select "Add to theme selector".
+### Keynote Theme
+
+1. Open `theme-azusa-colors.kth`
+2. Select "Add to theme selector".
+
+### Color Pallete
+
+1. Move `Azusa.clr` to `~/Library/Colors/`
 
 ## Author
 
